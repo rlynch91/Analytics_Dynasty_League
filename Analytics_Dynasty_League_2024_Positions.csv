@@ -1,4 +1,4 @@
-player_id,player,season,team,side,pos,join_string
+player_id,player_mfl,season,team,side,pos,join_string
 0800,Sterling Weatherford,2022,IND,DEF,S,Sterling Weatherford IND S
 0802,Lucas Krull,2022,NOS,OFF,TE,Lucas Krull NOS TE
 0803,Luiji Vilain,2022,MIN,DEF,DE,Luiji Vilain MIN DE
